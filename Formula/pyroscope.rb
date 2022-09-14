@@ -1,8 +1,8 @@
 class Pyroscope < Formula
   desc "Open source continuous profiling software"
   homepage "https://pyroscope.io"
-  url "https://github.com/juliosaraiva/pyroscope/archive/refs/tags/v0.5.1.tar.gz"
-  sha256 "e4c4d1722c21e26dfc6fa01958fac8670e774158ed3d11eddcd719ac77582c41"
+  url "https://github.com/juliosaraiva/pyroscope/archive/refs/tags/v0.5.3.tar.gz"
+  sha256 "35939198f2d0e866a2d0e0b6cec676c198ecbf5a91af5e49cae8f82f95ff170a"
   license "Apache-2.0"
   head "https://github.com/pyroscope-io/pyroscope.git", branch: "main"
 
